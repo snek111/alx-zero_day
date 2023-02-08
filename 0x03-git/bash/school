@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo"Alx school"
+=======
+echo"THe school is open!"
+>>>>>>> update_script
